@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**14** solved · 14 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-24 | [solution](problems/1101-select-all-rows) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-24 | [solution](problems/1102-select-specific-columns) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-28 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-28 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-24 | [solution](problems/1104-sort-results-with-order-by) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-10-24 | [solution](problems/1106-top-n-with-limit) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-24 | [solution](problems/1109-your-first-join) |
