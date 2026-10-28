@@ -14,5 +14,5 @@ def calculate_brightness(img):
 	res = 0 
 	for i in range ( m ) : 
 		for j in range ( n ) : 
-			res += img[i][j] / den
-	return res 
+			res += img[i][j]
+	return res / den
