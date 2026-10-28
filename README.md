@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-10-24 | [solution](problems/1108-average-per-group) |
+| [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-10-28 | [solution](problems/0070-calculate-image-brightness) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-10-24 | [solution](problems/1107-count-rows-per-group) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-10-24 | [solution](problems/1103-filter-rows-with-where) |
 | [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-10-24 | [solution](problems/1105-remove-duplicates-with-distinct) |
