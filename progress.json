@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:48:14.722Z",
+  "generated_at": "2026-10-29T05:49:16.984Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -208,6 +208,19 @@
       "last_pushed_at": "2026-10-28T06:48:07.164Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:185": {
+      "kind": "problem",
+      "id": "185",
+      "title": "Optical Flow EPE with Masks (OmniWorld-style metric)",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/185",
+      "path": "problems/0185-optical-flow-epe-with-masks-omniworld-style-metric",
+      "first_solved_at": "2026-10-29T05:49:08.489Z",
+      "last_pushed_at": "2026-10-29T05:49:08.489Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
